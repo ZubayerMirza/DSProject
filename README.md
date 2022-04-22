@@ -6,4 +6,5 @@ I use python to collect and visualize data that shows low economic status may ca
 # https://zubayermirza.github.io/DSProject/
 
 <img src="graph/summary_stats/pov.png">
-<img src="graph/predictive_model/povheatmap.png">
+<img src="graph/predictive_model/povlog.png">
+
