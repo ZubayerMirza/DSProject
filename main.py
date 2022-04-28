@@ -1,3 +1,11 @@
+"""
+Name:       Zubayer Mirza
+Email:      zubayer.mirza42@myhunter.cuny.edu
+Resources:  Folium Documentation, Seaborn Documentation, Sklearn Documentation
+Title:      Is Financial Health Mental Health?
+URL:        https://zubayermirza.github.io/DSProject/
+"""
+
 import pandas as pd # Data Engineering
 import matplotlib.pyplot as plt, seaborn as sns # Graph Visualizations
 import folium, plotly.express as px # Choropleth Map Visualizations
